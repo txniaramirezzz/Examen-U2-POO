@@ -14,8 +14,8 @@ public class ExamenU2POO {
      */
     public static void main(String[] args) {
         
-        
-        
+        String Nombre, Sexo;
+        int Edad;
         
     }
     
