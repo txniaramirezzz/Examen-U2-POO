@@ -16,7 +16,11 @@ public class ExamenU2POO {
         
         String Nombre, Sexo;
         int Edad;
-        
+    public ExamenU2POO (int edad, String Nombre, String Sexo) {
+        this.edad = edad;
+        this.Nombre = Nombre;
+        this.Sexo= Sexo;
+    }        
     }
     
 }
